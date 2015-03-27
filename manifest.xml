@@ -1,9 +1,8 @@
 <package>
   <description brief="HighLevel RPC connexion for 3DROV">
-  
   </description>
-  <author>/</author>
-  <license></license>
+  <author>Javier Hidalgo Carrio/javier.hidalgo-carrio@dfki.de</author>
+  <license>LGPLv2 or later</license>
   <url>http://</url>
   <logo>http://</logo>
   <!--
@@ -14,4 +13,5 @@
   <depend package="dummy-dependency-n" />
   -->
   <depend package="base/types" />
+  <deprivated>1</depricated>
 </package>

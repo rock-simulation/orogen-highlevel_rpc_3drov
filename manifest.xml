@@ -1,9 +1,11 @@
 <package>
-  <description brief="HighLevel RPC connexion for 3DROV">
-  
+ <description brief="HighLevel RPC connexion for 3DROV">
+    High (equivalent to GenoM) Level Remote Procedure Calls (RPC) example
+    to communicate to 3DROV simulator and Modules (thermal/env.etc...)
+    using rock/orogen components.
   </description>
-  <author>/</author>
-  <license></license>
+  <author>Javier Hidalgo Carrio/javier.hidalgo-carrio@dfki.de</author>
+  <license>LGPLv2 or later</license>
   <url>http://</url>
   <logo>http://</logo>
   <!--
@@ -14,4 +16,5 @@
   <depend package="dummy-dependency-n" />
   -->
   <depend package="base/types" />
+  <deprecated>1</deprecated>
 </package>
